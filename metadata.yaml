@@ -1,0 +1,48 @@
+_repo: Whispering-Smith_29572
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wyeth, N. C. (Newell Convers)
+    aliases:
+    - Wyeth, N.C.
+    - Wyeth, Newell Convers
+    birthdate: 1882
+    deathdate: 1945
+    gutenberg_agent_id: '32841'
+    url: http://www.gutenberg.org/2009/agents/32841
+    wikipedia: http://en.wikipedia.org/wiki/N._C._Wyeth
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Spearman, Frank H. (Frank Hamilton)
+    alias: Spearman, Frank Hamilton
+    birthdate: 1859
+    deathdate: 1937
+    gutenberg_agent_id: '25772'
+    url: http://www.gutenberg.org/2009/agents/25772
+    wikipedia: http://en.wikipedia.org/wiki/Frank_H._Spearman
+description: Disaster stalked the rails from the day the division superintendent of
+  a pioneer Western railroad fired the wrecking boss, Murray Sinclair, for looting
+  smashed freight cars. Sinclair and his bandits began a reign of terror, burning
+  bridges, and holding up trains. In desperation, the railroad called in Whispering
+  Smith, its ace troubleshooter. Smith, however, was conflicted about this job. Sinclair
+  had once been his best friend--and was the husband of the woman Smith loved.
+gutenberg_issued: '2009-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29572'
+  lccn: 06031385
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcsh 'Detectives -- West (U.S.) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Railroad police -- West (U.S.) -- Fiction'
+- !lcsh 'Railroad stories'
+title: Whispering Smith
+url: http://www.gutenberg.org/ebooks/29572
